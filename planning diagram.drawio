@@ -1,0 +1,134 @@
+<mxfile host="app.diagrams.net" modified="2023-05-18T07:14:32.626Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Fl-mkxfEc_FfCDJa5dc3" version="21.3.2" type="device">
+  <diagram name="Page-1" id="FdaVmhN5dYxIKUq2tNck">
+    <mxGraphModel dx="1747" dy="1358" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iIGj-pYt9_MA_T3iiu50-35" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="-296" y="189" width="71" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="iIGj-pYt9_MA_T3iiu50-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="27.5" y="127.5" width="145" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="iIGj-pYt9_MA_T3iiu50-1" value="Function 1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="60" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iIGj-pYt9_MA_T3iiu50-3" value="Controller with Response object" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="48" y="92" width="104" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iIGj-pYt9_MA_T3iiu50-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="226" y="127.5" width="145" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="iIGj-pYt9_MA_T3iiu50-6" value="Function 2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="258.5" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iIGj-pYt9_MA_T3iiu50-7" value="Controller with Response object" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="246.5" y="92" width="104" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iIGj-pYt9_MA_T3iiu50-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="421" y="127.5" width="145" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="iIGj-pYt9_MA_T3iiu50-9" value="Function 3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="453.5" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iIGj-pYt9_MA_T3iiu50-10" value="Controller with Response object" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="441.5" y="92" width="104" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iIGj-pYt9_MA_T3iiu50-11" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="27.5" y="313" as="sourcePoint" />
+            <mxPoint x="744" y="313" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iIGj-pYt9_MA_T3iiu50-12" value="Controller that can run all functions sequentially" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="355" y="351" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iIGj-pYt9_MA_T3iiu50-13" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="31" y="55" as="sourcePoint" />
+            <mxPoint x="169" y="55" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iIGj-pYt9_MA_T3iiu50-15" value="Controller that runs function according to function name" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="51" y="6" width="93" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iIGj-pYt9_MA_T3iiu50-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="229.5" y="55" as="sourcePoint" />
+            <mxPoint x="367.5" y="55" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iIGj-pYt9_MA_T3iiu50-17" value="Controller that runs function according to function name" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="249.5" y="6" width="93" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iIGj-pYt9_MA_T3iiu50-18" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="424.5" y="59" as="sourcePoint" />
+            <mxPoint x="562.5" y="59" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iIGj-pYt9_MA_T3iiu50-19" value="Controller that runs function according to function name" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="444.5" y="10" width="93" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iIGj-pYt9_MA_T3iiu50-20" value="Extra Functions here" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="626" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iIGj-pYt9_MA_T3iiu50-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iIGj-pYt9_MA_T3iiu50-21" target="iIGj-pYt9_MA_T3iiu50-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iIGj-pYt9_MA_T3iiu50-21" value="Verification API" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-23" y="-63" width="823" height="487" as="geometry" />
+        </mxCell>
+        <mxCell id="iIGj-pYt9_MA_T3iiu50-23" value="JSON File Input" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-292" y="223" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iIGj-pYt9_MA_T3iiu50-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iIGj-pYt9_MA_T3iiu50-24" target="iIGj-pYt9_MA_T3iiu50-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iIGj-pYt9_MA_T3iiu50-27" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iIGj-pYt9_MA_T3iiu50-26">
+          <mxGeometry x="0.1831" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iIGj-pYt9_MA_T3iiu50-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iIGj-pYt9_MA_T3iiu50-24" target="iIGj-pYt9_MA_T3iiu50-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-371.0173893511884" y="63.03703703703695" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-125" y="331" />
+              <mxPoint x="-125" y="331" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iIGj-pYt9_MA_T3iiu50-29" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iIGj-pYt9_MA_T3iiu50-28">
+          <mxGeometry x="-0.2417" relative="1" as="geometry">
+            <mxPoint x="1" y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iIGj-pYt9_MA_T3iiu50-24" value="File Size &amp;lt; 2 MB?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-165" y="141" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iIGj-pYt9_MA_T3iiu50-31" value="Reject" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="-165" y="394" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iIGj-pYt9_MA_T3iiu50-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iIGj-pYt9_MA_T3iiu50-32" target="iIGj-pYt9_MA_T3iiu50-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iIGj-pYt9_MA_T3iiu50-32" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="-443" y="141" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iIGj-pYt9_MA_T3iiu50-36" value="VerifyDB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="965" y="139" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iIGj-pYt9_MA_T3iiu50-38" value="Database Format" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="895" y="259" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="iIGj-pYt9_MA_T3iiu50-39" value="SQLITE database&lt;br&gt;&lt;br&gt;row_id: int auto-increment PK&lt;br&gt;id: text&lt;br&gt;file_type: text&lt;br&gt;verification_result: text&lt;br&gt;timestamp: datetime&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="iIGj-pYt9_MA_T3iiu50-38">
+          <mxGeometry x="12.5" y="54" width="175" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="iIGj-pYt9_MA_T3iiu50-40" value="Middleware" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-155" y="103" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
